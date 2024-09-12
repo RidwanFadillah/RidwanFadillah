@@ -2,7 +2,7 @@
 
 I'm Ridwan Fadillah, a developer passionate about technology, coding,and UI/UX. I'm always eager to learn new things and build exciting projects.
 ## 🔭 Current Projects
-- 🌱 Currently working on Infvckmatika Website, focused on UI/UX Designer.
+- 🌱 I have worked on the development of the Infvckmatika website, specifically focusing on UI/UX design.
 
 ## ⚡ Technologies I Work With
 - **Programming Languages:** Python, PHP

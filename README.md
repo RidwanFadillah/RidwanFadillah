@@ -8,10 +8,11 @@ I'm Ridwan Fadillah, a developer passionate about technology, coding,and UI/UX. 
 - **Programming Languages:** Python, PHP
 - **Frameworks:** Python Flask, Laravel
 - **Tools & Platforms:** Git </br> </br>
-<a href="#"><img align="left" alt="JavaScript" title="python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-<a href="#"><img align="left" alt="JavaScript" title="php" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<a href="#"><img align="left" alt="JavaScript" title="flask-python" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
-<a href="#"><img align="left" alt="JavaScript" title="laravel" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
+<a href="#"><img align="left" alt="Python" title="python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+<a href="#"><img align="left" alt="PHP" title="php" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+<a href="#"><img align="left" alt="Flash-Python" title="flask-python" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+<a href="#"><img align="left" alt="Laravel" title="laravel" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
+<a href="#"><img align="left" alt="Git" title="git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </br>
 
 ## 📚 Currently Learning
